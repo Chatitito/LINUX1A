@@ -26,6 +26,15 @@ Al entrar le daras a la opcion verde que dice "New"
 Luego en "Repository name" le pondra el nombre que quieras
 Habilitaras el README y no el .gitignore debido que no estas programando en si
 finalmente le daras crear repositorio
-despues de eso te iras a Visual Studio Code y vincularas tu cuenta con la de github 
- y en la barra de busqueda que esta en la parte superior buscara el repositorio creado
- luego se abrira para guardar la carpeta donde tu escogeras la que quieras el destino 
+despues de eso te iras a Visual Studio Code y vincularas tu cuenta con la de git hub 
+y en la barra de busqueda que esta en la parte superior buscara el repositorio creado
+luego se abrira para guardar la carpeta donde tu escogeras la que quieras el destino
+Crearas una carpeta en "New Folder" que la llamaras "01-practica"
+Dentro de la carpeta crearas un documento en "  New File" llamado "Guia.txt" y escribiras las indicaciones que estoy escribiendo yo ahora 
+ Despues iras a la 3era opcion de la barra de la izquierda 
+ donde abra una opcion azul que dice "Commit"Make sure you configure your user.name and user.email in git"
+ Despues del error le daras a la opccion de la barra superior  llamada "Terminal" y luego a "New Terminal"
+En terminal seguido de lo que dice le daras y pondras este comando "git config --global user.name "Tu Nombre"" y veras que no pasa nada
+Y despues de eso pondras este comando "git config --global user.email "tu_correo@example.com"" despues te iras a "Commit" (tambien le pondras en la caja de arriba que se llama "Mensesge" y le pondras de nombre "CREATE guia.txt)
+Luego de darle Commit ahora te saldra el "Sync Changes" y le daras y se abrira un menu de Git Hub para vincular Studio Code con Git Hub que deberas autorizar
+Despues se registrara en Git Hub la carpeta guia.txt
