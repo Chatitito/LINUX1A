@@ -1,0 +1,31 @@
+Descargar Oracle Virtual Box en https://www.virtualbox.org/wiki/Downloads
+Hacer la instalacion en la Laptop o PC de escritorio
+Descargar la version .iso de Ubuntu 26.04 LTS en https://ubuntu.com/download/desktop
+Entrar a Virtualbox y hacer click en el engranaje azul en forma de estrella "Nueva"
+Al entrar a ahi en la parte de "VM Name" tienes que poner un nombre en este caso yo puse "ubuntu"
+En "ISO Image" tienes que poner la direccion de ruta del archivo de Ubuntu version .iso
+Despues en la siguiente seccion dandoles click a la flecha de la parte izquierda en "user name" debes poner un nombre que quieras y en "Password" y "Confirm Password" ppner tu contraseña 2 veces
+Despues desplegando la siguiente seccion "Specify Virtual Hardware"
+Luego ahi debes ajustar tu base de memoria dependiendo la 3era parte de tu ram en mi caso como tengo 24GB de ram solo usare 8gb de ram
+Y en "Numbers of CPU" lo recomendable es dejarlo asi o en dado caso en 2
+Luego en la siguiente seccion "Create a New Hard Virtual Disk
+Y luego le das terminar
+Para que funcione la Maquina Virtual debes darle en la flecha en la barra superior que se llama "Correr" o dandole doble click a la maquina en cuestion
+Y luego te llevara a una nueva pagina que al principio te llevara a un cuadro donde le daras enter 
+Y si todo sale bien estaras dentro del virtual box con Ubuntu pero en la pantalla inicial donde tendras que poner tu contraseña la misma que la del paso numero 7
+si sale bien te mandara a que actualizes el ubuntu donde primero te dira que idioma prefieres y todo lo recomendable es darle siguiente en todo
+despues de actualizarse ya estara ubuntu 
+y para guardar progreso en la pestaña de Virtual Box" daras click derecho al servidor y te iras a la parte de "apagar" y ahi mismo te iras a la parte de "guardar estado"
+Despues debes descaragar el "Visual Studio Code" en este link:https://code.visualstudio.com/download?_exp_download=fb315fc982 y escoges el de tu sistema operativo de preferencia en mi caso windows
+Tambien debes descaragar Git en:https://git-scm.com/install/windows y luego instalar la version "Standalone Installer" de tu Sistema Operativo de preferencia 
+y escoger la version dependiendo tu Procesador en mi caso que soy inter escogi x64 porteable
+Depues de que instales los 2 debes crear una cuenta en Github primero dandole de "Sign Up" despues a "continuar con googles" y poner tu cuenta de preferencia de gmail
+Luego te va mandar a que verifiques tu correo y luego vas a tu correo a revisar si esta bien o no y le das "confirmar correo"
+Ya al tener cuenta vas a ir al icono de tu cuenta y en la parte superior de la barra desplegable dira "Repositories" 
+Al entrar le daras a la opcion verde que dice "New"
+Luego en "Repository name" le pondra el nombre que quieras
+Habilitaras el README y no el .gitignore debido que no estas programando en si
+finalmente le daras crear repositorio
+despues de eso te iras a Visual Studio Code y vincularas tu cuenta con la de github 
+ y en la barra de busqueda que esta en la parte superior buscara el repositorio creado
+ luego se abrira para guardar la carpeta donde tu escogeras la que quieras el destino 
